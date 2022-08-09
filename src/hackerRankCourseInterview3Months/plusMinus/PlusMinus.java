@@ -1,4 +1,4 @@
-package hackerRankCourseInterview3Months;
+package hackerRankCourseInterview3Months.plusMinus;
 
 import java.util.ArrayList;
 import java.util.Arrays;
