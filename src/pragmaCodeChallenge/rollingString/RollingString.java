@@ -20,8 +20,6 @@ public class RollingString {
             int j = Integer.parseInt(Character.toString(op.charAt(1)));
             if (op.charAt(2) == 'L') {
                 for (char letraAux: s.toCharArray()) {
-
-
                     for (int k = i; k <= j; k++) {
                         if (s.charAt(k)-1 < 'A') {
 
