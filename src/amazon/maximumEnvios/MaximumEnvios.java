@@ -1,11 +1,11 @@
-package amazon;
+package amazon.maximumEnvios;
 
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
-public class maximumEnvios {
+public class MaximumEnvios {
         public static int solution(List<Integer> parcels){
 
             int flag = 0;
